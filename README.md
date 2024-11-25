@@ -1,16 +1,20 @@
-## Hi there 👋
+# Welcome 
 
-<!--
-**NonameDux/NonameDux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header Image](https://letsplayers.ru/wp-content/uploads/2022/04/devochki-loli-gensh.jpeg) <!-- Замените на ссылку вашей картинки -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me ⚡
+
+- **Name:** Alexandr  
+- **Age:** 16  
+- **Region:** UA  
+- **Hobbies:** Web-Programming, Gaming, development 
+- **OS:** Windows 11  
+- **Learning Now:** C++,lavarel,Figma 
+
+---
+
+### My Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/kayota_frontend](https://t.me/Lost_Dev_Team))  
+
+---
