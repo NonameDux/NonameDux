@@ -14,7 +14,3 @@
 
 ---
 
-### My Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)]((https://t.me/Lost_Dev_Team))  
-
----
