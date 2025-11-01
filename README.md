@@ -6,15 +6,15 @@
 ## ⚡ About Me ⚡
 
 - **Name:** Alexandr  
-- **Age:** 16  
+- **Age:** 17  
 - **Region:** UA  
-- **Hobbies:** Web-Programming, Gaming, development 
-- **OS:** Windows 11  
-- **Learning Now:** C++,lavarel,Figma 
+- **Hobbies:** Engineering, Gaming, development
+- **OS:** Windows 11,Kali linux
+- **Learning Now:** Сurrent focus is on learning network infrastructure/topology and the fundamentals of penetration testing. 
 
 ---
 
 ### My Contacts
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)]([https://t.me/kayota_frontend](https://t.me/Lost_Dev_Team))  
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=telegram&logoColor=white)]((https://t.me/Lost_Dev_Team))  
 
 ---
