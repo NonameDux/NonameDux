@@ -6,7 +6,7 @@
 ## ⚡ About Me ⚡
 
 - **Name:** Alexandr  
-- **Age:** 17  
+- **Age:** 18  
 - **Region:** UA  
 - **Hobbies:** Engineering, Gaming, development
 - **OS:** Windows 11,Kali linux
