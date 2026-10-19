@@ -1,16 +1,14 @@
 # Welcome 
 
-![Header Image](https://letsplayers.ru/wp-content/uploads/2022/04/devochki-loli-gensh.jpeg) <!-- Замените на ссылку вашей картинки -->
+![Header Image](https://i.pinimg.com/1200x/de/11/21/de112150c9dca24e8867e5a4a800a9c3.jpg)
 
 
-## ⚡ About Me ⚡
+##  About Me 
 
-- **Name:** Alexandr  
+- **Name:** Oleksandr  
 - **Age:** 18  
-- **Region:** UA  
 - **Hobbies:** Engineering, Gaming, development
-- **OS:** Windows 11,Kali linux
-- **Learning Now:** Сurrent focus is on learning network infrastructure/topology and the fundamentals of penetration testing. 
+- **Learning Now:** Сurrent focus is on learning C# for Unity and Python for telegram bots. 
 
 ---
 
